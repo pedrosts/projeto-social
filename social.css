@@ -7,8 +7,7 @@
 }
 
 body {
-    min-width: 320px;
-    max-width: 800px;
+ width: 666px;
 }
 
 ::-webkit-scrollbar {
