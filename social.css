@@ -29,3 +29,9 @@ a:hover {
     transition: 0.1s;
     text-decoration: underline;
 }
+
+a#ajuste {
+   margin: auto;
+   padding-bottom: 80px;
+   padding-top: 50px;
+}
